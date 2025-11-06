@@ -1,5 +1,22 @@
 const contentObject = [
   {
+    "image": "XmasTree3.jpg",
+    "title": "Little Mobile Ornament Library",
+    "url": "https://tajweird.com/MobileChristmasTree",
+    "type": "Creation, Event",
+    "year": "Dec 2024",
+    "tags": [
+      "Events",
+      "Crafts",
+      "Art",
+      "Bikes",
+      "Freakbikes",
+      "Article"
+    ],
+    "xPos": 0.1,
+    "yPos": 0.1
+  },
+  {
     "image": "ToiletRacer2.jpg",
     "title": "Hampden Toiletbowl Races!",
     "url": "https://tajweird.com/random/images/ToiletRacer2.jpg",
